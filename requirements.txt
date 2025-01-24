@@ -1,0 +1,5 @@
+PyQt5
+fpdf
+pillow
+BeautifulSoup4
+httpx[http2]
